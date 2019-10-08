@@ -33,6 +33,7 @@ theme: minima
 plugins:
   - jekyll-feed
 
+root: /octo-5
 
 defaults:
   -
