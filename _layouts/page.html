@@ -1,0 +1,143 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Wasted Wish</title>
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="/assets/css/style.css">
+</head>
+
+<body>
+
+    {% include header.html %}
+            
+    
+
+    <div id="jumbotron-pic" class="jumbotron jumbotron-fluid">
+        <div class="container">
+            <a href="https://andrewzdunek.bandcamp.com/track/this-barricade" target="_blank" rel="noopener noreferrer">
+                <div class="music">
+                <p class="text-white font-weight-light">M</p>
+                <p class="text-white font-weight-light">U</p>
+                <p class="text-white font-weight-light">S</p>
+                <p class="text-white font-weight-light">I</p>
+                <p class="text-white font-weight-light">C</p>
+                </div>
+            </a>
+        </div>
+    </div>
+
+    <div id="jumbotronPicTwo" class="jumbotron jumbotron-fluid">
+        <div class="container">
+            <a href="https://vimeo.com/231252403" target="_blank" rel="noopener noreferrer">
+                <div class="video">
+                <p class="text-white font-weight-light">V</p>
+                <p class="text-white font-weight-light">I</p>
+                <p class="text-white font-weight-light">D</p>
+                <p class="text-white font-weight-light">E</p>
+                <p class="text-white font-weight-light">O</p>
+                </div>
+            </a>
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6">
+                <p class="third" class="text-black font-weight-light">Contact</p>
+                <a href="mailto:wastedwish01@gmail.com" target="_top"><img src="https://media.giphy.com/media/x4c04khefI3APTPFig/giphy.gif"
+                        class="img-fluid" data-still="https://media.giphy.com/media/DDXGACa4EqpEY/giphy.gif"
+                        data-animate="https://media.giphy.com/media/x4c04khefI3APTPFig/giphy.gif" width="100%" height="500"
+                        data-state="still">
+                </a>
+            </div>
+            <div class="col-lg-6">
+                <br>
+                <pre>
+        ...the project
+            </pre>
+                <pre>
+                Wasted Wish is an
+                alternative/industrial 
+                rock project started by 
+                Andrew Zdunek Summer 2017.
+
+        Inventory Report for Project
+
+        Tools           Quantity
+        
+        Laptop             1
+        Guitar             1
+        Drum Machine       1
+        Vox             undefined
+                </pre>
+            </div>
+        </div>
+    </div>
+
+
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6 py-5">
+<pre>
+For news and updates on this attempted project...
+</pre>
+</div>
+
+            <h1 id="fifth" class="col-lg-6 text-black font-weight-light py-5">Newsletter</h1>
+            <div class="col-lg-6 offset-lg-6">
+                <form>
+
+            
+
+                    <div class="form-group">
+                        <label for="name">Name</label>
+                        <input type="name" name="name" id="name" class="form-control" placeholder="Enter your name"
+                            required="true">
+                    </div>
+
+                    <div class="form-group">
+                        <label for="email">Email Address</label>
+                        <input type="email" name="email" id="email" class="form-control" placeholder="Enter your email"
+                            required="true">
+                    </div>
+
+                    <button type="submit" value="submit" class="btn btn-md btn-outline-dark" data-toggle="modal" data-target="#exampleModalCenter">Submit</button>
+
+                    <div class="modal fade" id="exampleModalCenter" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+                        <div class="modal-dialog modal-dialog-centered" role="document">
+                          <div class="modal-content">
+                            <div class="modal-header">
+                              <h5 class="modal-title" id="exampleModalLongTitle">...</h5>
+                              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                <span aria-hidden="true">&times;</span>
+                              </button>
+                            </div>
+                            <div class="modal-body">
+                              Sorry everyone this newsletter is temporarily out of service. Please check back later. -Andrew-
+                            </div>
+                            <div class="modal-footer">
+                              <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+
+                </form>
+            </div>
+        </div>
+    </div>
+
+    {% include footer.html %}
+
+
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+</body>
+ </html>

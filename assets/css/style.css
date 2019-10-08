@@ -1,0 +1,61 @@
+#jumbotron-pic{
+    background-image: url("https://media.giphy.com/media/DDXGACa4EqpEY/giphy.gif");
+    background-size: cover;
+    min-height: 600px;
+}
+
+#jumbotronPicTwo{
+    background-image: url("https://media.giphy.com/media/OjICBN1eBO2jlQQidz/giphy.gif");
+    background-size: cover;
+    min-height: 600px;
+}
+
+.video, .music{
+    font-size: 40px;
+    letter-spacing: 15px;
+}
+
+.third{
+    font-size: 40px;
+    letter-spacing: 15px;
+    font-weight: 100;
+}
+
+#fourth, #fifth {
+      letter-spacing: 15px;
+}
+
+.me { max-width: 100%; 
+    position: relative;
+    right: 50%;
+}
+
+.page-title{
+    font-weight: 100;
+}
+
+.post-info, .credits{
+    color: darkgrey;
+}
+
+.post-list-heading, .post-link, .post-meta, .rss-subscribe{
+    position: relative;
+    left: 60%;
+    bottom: 900px;
+    font-weight: 200;
+    
+}
+
+p,.content{
+    word-break: break-all;
+}
+
+a:link {color: black;} 
+a:visited {color: black;} 
+a:hover {color: black;} 
+a:active {color: black;} 
+a {text-decoration: none !important;}
+
+h5{
+    font-weight: 200;
+}
