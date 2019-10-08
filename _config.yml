@@ -26,7 +26,7 @@ baseurl: "/myblog" # the subpath of your site, e.g. /blog
 url: "https://ajzdunek.github.io/myblog/" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username:  jekyll
-<link href="{{ "/assets/css/style.css" | relative_url }}" rel="stylesheet">
+
 
 # Build settings
 theme: minima
