@@ -33,6 +33,11 @@ theme: minima
 plugins:
   - jekyll-feed
 
+links:
+  - title: about
+    url: /about/
+  - title: page
+    url: /page/
 
 defaults:
   -
