@@ -4,4 +4,4 @@
 
 layout: home
 ---
-![Andrew Zdunek](../assets/images/me.JPG){: .me}
+![Andrew Zdunek](/assets/images/me.JPG){: .me}
