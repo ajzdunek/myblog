@@ -35,9 +35,9 @@ plugins:
 
 links:
   - title: about
-    url: /about/
+    url: about.html
   - title: page
-    url: /page/
+    url: page.html
 
 defaults:
   -
