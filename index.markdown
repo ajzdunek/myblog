@@ -4,10 +4,7 @@
 
 layout: home
 ---
-![Andrew Zdunek]({{ site.https://ajzdunek.github.io }}myblog/assets/images/me.JPG){: .me}
-<!-- 
-![Andrew Zdunek]({{ "/assets/images/me.JPG" | absolute_url }}){: .me} -->
-<!-- 
-![Andrew Zdunek]({{ '/assets/tools/me.JPG' | relative_url }}){: .me} -->
+![Andrew Zdunek](/assets/images/me.JPG){: .me}
+
 
 
