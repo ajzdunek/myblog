@@ -66,6 +66,12 @@ h5{
     font-weight: 200;
 }
 
+#thanks-message{
+  padding-top: 15%;
+  text-align: center;
+}
+
+
 /* 
   ##Device = Desktops
   ##Screen = 1281px to higher resolution desktops
