@@ -1,6 +1,8 @@
+/* ###### body side scrolling */
 body {
     overflow-x: hidden;
 }
+/* ########################## */
 
 #jumbotron-pic{
     background-image: url("https://media.giphy.com/media/DDXGACa4EqpEY/giphy.gif");
@@ -120,7 +122,13 @@ h5{
         position: relative;
         right: 5%;
     }
-    
+    .post-list-heading, .post-link, .post-meta, .rss-subscribe{
+        position: relative;
+        left: 5%;
+        bottom: -10px;
+        font-weight: 200;
+        
+    }
   }
   
   /* 
@@ -134,5 +142,16 @@ h5{
         position: relative;
         right: 5%;
     }
+
+    .post-list-heading, .post-link, .post-meta, .rss-subscribe{
+        position: relative;
+        left: 5%;
+        bottom: -10px;
+        font-weight: 200;
+        
+    }
     
   }
+
+
+  
