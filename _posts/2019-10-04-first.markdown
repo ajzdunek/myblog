@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "This Barricade"
 date:   2019-10-04 11:19:14 -0500
 author: Andrew Zdunek
