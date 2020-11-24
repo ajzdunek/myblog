@@ -1,7 +1,6 @@
 # myblog
-Coding a band website in Jekyll that mixes a touch of minimalism and brutalism. Appears on [Brutalist Websites](https://brutalistwebsites.com/)
 
-Jekyll is a simple, blog-aware, static site generator for personal, project, or organization sites written in Ruby. 
+Coding a band website that mixes a touch of minimalism and brutalism. 
 
 ## Built With
 
@@ -10,6 +9,11 @@ Jekyll is a simple, blog-aware, static site generator for personal, project, or 
 - JavaScript (Automatically updating the timestamp copyright year)
 - Bootstrap (Version 4.1.3)
 - Getform (handling the backend for HTML forms)
+- Jekyll
+
+## Other accomplishments
+
+- Was featured on [Brutalist Websites](https://brutalistwebsites.com/)
 
 ## Author
 
