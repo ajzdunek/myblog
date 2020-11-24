@@ -13,10 +13,9 @@ Coding a band website that mixes a touch of minimalism and brutalism.
 
 ## Other accomplishments
 
-- Was featured on [Brutalist Websites](https://brutalistwebsites.com/)
+- Was featured on [Brutalist Websites](https://brutalistwebsites.com/).
 
-- Link to the website where it was featured including a short Q & A about the website [Wasted Wish](https://brutalistwebsites.com/wastedwish.com/). In the Q & A I mention that the website is one page but it ended being two 
-as well as including the blog content feature.
+- Link to the website where it was featured including a short Q&A. [Wasted Wish](https://brutalistwebsites.com/wastedwish.com/). In the Q&A I mention that the website is one page but I it ended up being two as well as including the blog content feature.
 
 ## Author
 
