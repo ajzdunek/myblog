@@ -9,7 +9,7 @@ Coding a band website that mixes a touch of minimalism and brutalism.
 - JavaScript (Automatically updating the timestamp copyright year)
 - Bootstrap (Version 4.1.3)
 - Getform (handling the backend for HTML forms)
-- Jekyll
+- Jekyl
 
 ## Other accomplishments
 
